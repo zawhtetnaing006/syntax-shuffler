@@ -6,7 +6,7 @@
             "Zaw\\SyntaxShuffler\\": "src/"
         }
     },
-    "bin": ["bin/shuffle"],
+    "bin": ["bin/shuffle.php"],
     "scripts": {
         "shuffle": "php bin/shuffle.php"
     },
@@ -16,5 +16,7 @@
             "email": "zawhtetnaing006@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "license": "MIT",
+    "version": "1.0.1"
 }
