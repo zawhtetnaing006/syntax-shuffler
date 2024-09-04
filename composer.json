@@ -1,0 +1,20 @@
+{
+    "name": "zaw/syntax-shuffler",
+    "description": "Use it on Friday.",
+    "autoload": {
+        "psr-4": {
+            "Zaw\\SyntaxShuffler\\": "src/"
+        }
+    },
+    "bin": ["bin/shuffle"],
+    "scripts": {
+        "shuffle": "php bin/shuffle.php"
+    },
+    "authors": [
+        {
+            "name": "Zaw",
+            "email": "zawhtetnaing006@gmail.com"
+        }
+    ],
+    "require": {}
+}
